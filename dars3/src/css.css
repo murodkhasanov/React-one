@@ -1,0 +1,46 @@
+body .Lite .menu-itme {
+    background-color: rgb(255, 255, 255);
+    width: 820px;
+    height: 145px;
+    margin: 10px 20px;
+    float: left;
+    cursor: pointer;
+    box-sizing: border-box;
+    border-radius: 15px;
+    position: relative;
+    bottom: 140px;
+    right: 20px;
+}
+.shot {
+    background-color: rgb(222, 216, 216);
+    width: 35px;
+    height: 40px;
+    border-radius: 5px;
+    position: relative;
+    left: 20px;
+    top: 20px;
+}
+.text {
+    position: relative;
+    left: 90px;
+    bottom: 40px;
+    color: rgb(7, 7, 80);
+}
+.desc {
+    position: relative;
+    left: 90px;
+    bottom: 50px;
+    color: rgb(7, 7, 80);
+}
+.button {
+    position: relative;
+    bottom: 57px;
+    left: 85px;
+    background-color: rgb(229, 230, 230);
+    border-radius: 10px;
+    width: 120px;
+    height: 30px;
+    border: none;
+    font-size: 15px;
+    color: blue;
+}

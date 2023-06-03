@@ -1,0 +1,108 @@
+body {
+  background-color: aliceblue;
+  height: auto;
+}
+.App {
+  background-color: rgb(217, 217, 217);
+  width: 1100px;
+  height: 900px;
+  margin: 0 auto;
+  font-family: 'Arial';
+}
+
+.name1 {
+  background-color: rgb(90, 50, 200);
+  width: 250px;
+  height: 150px;
+  border-radius: 15px;
+}
+
+.name2 {
+  background-color: rgb(255, 255, 255);
+  width: 250px;
+  height: 150px;
+  border-radius: 15px;
+  margin-top: 20px;
+}
+
+.name3 {
+  background-color: rgb(255, 255, 255);
+  width: 250px;
+  height: 150px;
+  border-radius: 15px;
+}
+
+.name2>button {
+  height: 35px;
+  border-radius: 12px;
+  margin: 5px 7px;
+  border: none;
+  position: relative;
+  left: 30px;
+  top: 10px;
+}
+
+.name2>button:nth-child(1) {
+  width: 50px;
+  background-color: blue;
+}
+
+.name2>button:nth-child(2) {
+  width: 50px;
+}
+
+.name2>button:nth-child(3) {
+  width: 50px;
+}
+
+.name2>button:nth-child(4) {
+  width: 100px;
+}
+
+.name2>button:nth-child(5) {
+  width: 50px;
+}
+
+.name2>button:nth-child(6) {
+  width: 70px;
+}
+
+.name2>button>h4 {
+  margin-top: 10px;
+  color: blue;
+}
+
+.name2>button>h4>p {
+  margin-top: 10px;
+  color: rgb(255, 255, 255);
+}
+
+.name1>button {
+  background-color: rgb(90, 50, 200);
+  font-size: 21px;
+  border: none;
+  padding: 26px 50px;
+  border-radius: 15px;
+  color: white;
+}
+.name1>button>span {
+  color: white;
+}
+.name1>button>p {
+  background-color: rgb(90, 50, 200);
+  font-size: 16px;
+  border: none;
+  margin-right: 40px;
+  position: relative;
+  bottom: 25px;
+  color: white;
+}
+.name3>h2 {
+  padding: 20px 40px;
+}
+.name3>span {
+  position: relative;
+  left: 40px;
+  bottom: 20px;
+  color: rgb(110, 109, 109);
+}

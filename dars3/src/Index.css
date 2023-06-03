@@ -1,0 +1,40 @@
+.Index {
+  background-color: rgb(9, 10, 56);
+  width: 820px;
+  height: 70px;
+  position: relative;
+  left: 270px;
+  bottom: 510px;
+  border-radius: 15px;
+}
+.nom1>h2 {
+  padding: 20px 40px;
+  color: white;
+}
+
+.sort {
+  position: relative;
+  left: 230px;
+  bottom: 60px;
+}
+.sort>p {
+  color: white;
+}
+.sort>h4 {
+  position: relative;
+  left: 70px;
+  bottom: 38px;
+  color: white;
+}
+.but>button {
+  position: relative;
+  left: 630px;
+  bottom: 157px;
+  width: 170px;
+  border-radius: 11px;
+  border: none;
+  background-color: blueviolet;
+}
+.but>button>h3 {
+  color: white;
+}
